@@ -34,7 +34,7 @@ Windows界面：
 
 
 ### 1024回家Github临时版：非常不稳定，强烈建议下载对应的客户端
-1024地址：https://cl.5979x.xyz/index.php  
+1024地址：https://cl.3503x.xyz/index.php  
 91地址：https://f0427.9p234.com/index.php
 
 ### 之所以能持续更新  
