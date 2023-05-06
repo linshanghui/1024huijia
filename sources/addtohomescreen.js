@@ -149,13 +149,13 @@ ath.intl = {
 	},
 
 	zh_cn: {
-		ios: '请添加到主屏幕后使用, 请点击%icon, 然后<strong>添加到主屏幕</strong>',
-		android: 'To add this web app to the home screen open the browser option menu and tap on <strong>Add to homescreen</strong>. <small>The menu can be accessed by pressing the menu hardware button if your device has one, or by tapping the top right menu icon %icon.</small>'
+		ios: '请添加到主屏幕后使用, 请点击最下方中间图标%icon, 然后点击<strong>添加到主屏幕</strong>',
+		android: '要将此web应用程序添加到主屏幕，请打开浏览器选项菜单，然后点击<strong>添加到主屏</strong><small>如果您的设备有菜单硬件按钮，则可以通过按下菜单硬件按钮或点击右上角的菜单图标%图标来访问菜单</小型>'
 	},
 
 	zh_tw: {
 		ios: '如要把應用程式加至主屏幕, 請點擊%icon, 然後<strong>加至主屏幕</strong>.',
-		android: 'To add this web app to the home screen open the browser option menu and tap on <strong>Add to homescreen</strong>. <small>The menu can be accessed by pressing the menu hardware button if your device has one, or by tapping the top right menu icon %icon.</small>'
+		android: '要将此web应用程序添加到主屏幕，请打开浏览器选项菜单，然后点击<strong>添加到主屏</strong><small>如果您的设备有菜单硬件按钮，则可以通过按下菜单硬件按钮或点击右上角的菜单图标%图标来访问菜单</小型>'
 	}
 };
 
