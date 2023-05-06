@@ -211,15 +211,13 @@ templatePalace
     gtag('js', new Date());
     gtag('config', 'G-QGYDJYSZ4V');
 
-    function isPwa() {
-        return ["fullscreen", "standalone", "minimal-ui"].some(
-            (displayMode) => window.matchMedia('(display-mode: ' + displayMode + ')').matches
-        );
-    }
-    if (isPwa()){
-        document.body.innerHTML = "是pwa网站"
+    const isInStandaloneMode = () =>
+        (window.matchMedia('(display-mode: standalone)').matches) || (window.navigator.standalone) || document.referrer.includes('android-app://');
+
+    if (isInStandaloneMode()) {
+        document.body.innerHTML = "是在pwa中打开的"
     }else {
-        document.body.innerHTML = "请添加到主屏幕后，在主屏幕打开使用"
+        document.body.innerHTML = "请在pwa中打开"
     }
 </script>
 </body>
