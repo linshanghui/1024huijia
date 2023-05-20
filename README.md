@@ -69,4 +69,4 @@ Git云：<https://1024huijia.github.io/TestSome/sources/油猴脚本.zip>
 ### 1024回家Github临时版：非常不稳定，强烈建议下载对应的客户端
 
 1024地址：https://cl.9657x.xyz/index.php  
-91地址：https://w1218.91p46.com/index.php
+91地址：https://f0427.9p234.com/index.php
